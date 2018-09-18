@@ -1,4 +1,4 @@
-# animal_brin_body
+# animal_brain_body
 create prediction using linear regression
 
 This code is for prediction of animal's body weight by its brain weight.
